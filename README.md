@@ -1,2 +1,2 @@
 # crypto_studio
-Cryptocurrencies Tracking App
+Cryptocurrency Tracking App
